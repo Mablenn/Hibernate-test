@@ -1,3 +1,3 @@
 # Hibernate-test
 
-<h2>Proyecto test hibernate</h2>
+<h3>Proyecto test hibernate</h3>
